@@ -13,4 +13,5 @@
 
 - This case study demonstrates that our **proposed decisions** and insights are capable of providing a good **precision marketing strategy**.
 
-- The real-world data from a company in UK were collected and used in this case study to illustrate how to implement EDA.
+- Click [here](https://github.com/PrajwalRLJagtap/Online-Reatil-Company-Sales-Analysis/blob/main/Online_Reatil_Company_Sales_Analysis.ipynb) for the code and Data Visualization
+
