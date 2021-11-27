@@ -1,4 +1,5 @@
-
+ Online Retail Company Sales Analysis
+ 
 - Recently, it has been recognized that **precision marketing** has become a key means of generating profit.
 
 - The availability of customer data and transaction records provides better understanding of customers’ **buying behaviors** and **preferences**.
