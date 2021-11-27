@@ -13,5 +13,7 @@
 
 - This case study demonstrates that our **proposed decisions** and insights are capable of providing a good **precision marketing strategy**.
 
-- Click [here](https://github.com/PrajwalRLJagtap/Online-Reatil-Company-Sales-Analysis/blob/main/Online_Reatil_Company_Sales_Analysis.ipynb) for the code and Data Visualization
+- Click [here](https://github.com/PrajwalRLJagtap/Online-Retail-Company-Sales-Analysis/blob/main/Online_Retail_Company_Sales_Analysis.ipynb) for the code and Data Visualization
+
+
 
