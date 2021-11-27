@@ -1,6 +1,3 @@
-<a name = Section1></a>
-# **1. Introduction**
----
 
 - Recently, it has been recognized that **precision marketing** has become a key means of generating profit.
 
